@@ -1,0 +1,39 @@
+.btn-outline-success{
+    color: white;
+    border-color: white;
+}
+h1{
+    color:teal;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.border-bottom {
+    color: teal;
+    margin-left: 30px;
+    font-style: italic;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.img-fluid{
+    width: 250px;
+    height: 340px;
+}
+.img-school{
+    width: 240px;
+    height: 350px;  
+}
+.card-img-top {
+    width: 360px;
+    height: 251.15px;
+}
+.border-cv {
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.btn-success{
+    margin-left: 20px;
+}
